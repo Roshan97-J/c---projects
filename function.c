@@ -138,5 +138,5 @@ int main(){
     for (int i=0;i<col;i++){
       printf(" %c",sym);
     }printf("\n");
-    }
+    }printf("FOR GITHUB");
 }
